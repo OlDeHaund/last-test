@@ -117,11 +117,4 @@ def test_add_client(driver, config):
 - Admin näeb linke “Juuksurid”, “Kliendid”, “Tellimused”.  
 - Testid eeldavad, et lehed kasutavad stabiilseid ID-sid või nimesid.  
 - Testid ei muuda püsivalt andmebaasi (vajadusel kasutada testandmeid).  
-- Selenium ootab kuni 5 s (`implicitly_wait(5)`), kunstlikke pause pole vaja.  
-
----
-
-**Autor:** Ravil  
-**Testiraamistik:** Selenium (Python + PyTest)  
-**Versioon:** 1.0  
-**Kuupäev:** 03.11.2025
+- Selenium ootab kuni 5 s (`implicitly_wait(5)`), kunstlikke pause pole vaja.
