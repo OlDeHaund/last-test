@@ -1,0 +1,15 @@
+{
+  "base_url": "http://localhost/juuksurPHP-main/juuksurPHP-main/",
+  "users": {
+    "admin": {
+      "username": "admin",
+      "password": "admin123",
+      "onadmin": 1
+    },
+    "kasutaja": {
+      "username": "user1",
+      "password": "user123",
+      "onadmin": 0
+    }
+  }
+}
